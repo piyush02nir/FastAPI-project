@@ -1,5 +1,3 @@
-Use this code as a base code for learning FastAPI on my channel.
-
 home_price_calculator/
 
 ```
